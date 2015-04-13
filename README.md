@@ -1,2 +1,3 @@
 # Algorithms-Data-Structures
-Various algorithms and data structures implemented in Python. Used for learning and as a reference. 
+
+This repo contains various algorithms and data structures implemented in Python. It was created as a learning tool and intended to be used for as a future reference.
