@@ -32,6 +32,3 @@ for row in output:
     print(line)
 
 
-
-
-    
